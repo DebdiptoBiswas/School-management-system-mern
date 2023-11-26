@@ -1,6 +1,5 @@
 // Import necessary modules
 import dotenv from 'dotenv';
-import mongoose from 'mongoose';
 import connectDB from './config/db.js'; // Make sure this path is correct
 
 // Import data and models
