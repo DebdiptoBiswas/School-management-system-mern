@@ -6,25 +6,6 @@ This is a MERN stack website which can be used for managing the school. It has a
 
 ### `LIVE SITE`
 
-```bash
-https://manageschool1.herokuapp.com/
-
-``` 
-
-### `LOGIN AS ADMIN AND SEE EVERYTHING`
-
-```bash
-Login email="admin1@example.com"
-Login password="adminpassword1"
-```
-
-## Usage
-
-Clone the repo
-
-```bash
-git clone https://github.com/upendradhamala/School-Management-System.git
-```
 
 ### Getting Started
 
